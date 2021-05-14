@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rendinel&show_icons=true&locale=en&layout=compact"  width="400"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rendinel&show_icons=true&locale=en" alt="shubham44-code" width="400" /></p>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rendinel&show_icons=true&locale=en" alt="shubham44-code" width="400" /></div>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rendinel)  
