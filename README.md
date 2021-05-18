@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <a href="https://vuejs.org" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vue.js" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://www.php.net/images/logos/php-logo.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="react" width="40" height="40"/> </a> </p>
-
+<a href="https://laravel.com" target="_blank"> <img src="https://www.velug.it/images/MySQL.png" alt="react" width="40" height="40"/> </a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rendinel&show_icons=true&locale=en&layout=compact"  width="400"/></p>
