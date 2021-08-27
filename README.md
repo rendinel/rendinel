@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Lucio Rendine</h1>
+<!-- <h1 align="center">Hi 👋, I'm Lucio Rendine</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <a href="https://www.php.net" target="_blank"> <img src="https://www.php.net/images/logos/php-logo.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://laravel.com" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="react" width="40" height="40"/> </a> </p>
 <a href="https://laravel.com" target="_blank"> <img src="https://www.velug.it/images/MySQL.png" alt="react" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rendinel&show_icons=true&locale=en&layout=compact"  width="400"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rendinel&show_icons=true&locale=en&layout=compact"  width="400"/></p> -->
